@@ -16,5 +16,5 @@
 
 [SQL Exercises](./SQL-exercises.md) <br>
 
-## Things I want to know more about
+
 
