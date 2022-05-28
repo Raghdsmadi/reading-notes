@@ -15,6 +15,7 @@
 [The Command line](./commandLine.md) <br>
 
 [SQL Exercises](./SQL-exercises.md) <br>
-
-
+ 
+ 
+ ***Read Class01:*** [class01](./class01/)
 
