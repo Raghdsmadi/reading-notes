@@ -12,3 +12,5 @@
 
 [The Command line](./commandLine.md) <br>
 
+[SQL Exercises](./SQL-exercises.md) <br>
+
