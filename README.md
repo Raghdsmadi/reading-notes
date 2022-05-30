@@ -15,7 +15,15 @@
 [The Command line](./commandLine.md) <br>
 
 [SQL Exercises](./SQL-exercises.md) <br>
+
+<br>
+
+
  
- 
+ | Reading | --- | classes |
+| ----------- | ----------- | ----------- |
  ***Read Class01:*** [class01](./class01/)
+ ***Read Class02:***[class02](./class02/)
+
+ ---
 
