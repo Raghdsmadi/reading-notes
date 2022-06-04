@@ -24,5 +24,5 @@
 |--------------|-------------|
 | read class01 | [class01](https://github.com/Raghdsmadi/reading-notes/tree/main/class01) 
 | read class02 | [class02](https://github.com/Raghdsmadi/reading-notes/tree/main/class02)
-
+| read class03|[class03](./class03)
 
