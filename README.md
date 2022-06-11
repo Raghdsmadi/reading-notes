@@ -27,3 +27,4 @@
 | read class03 |[class03](./class03)
 | read_class04 | [class04](./class04)
 | read_class05 | [class05](./class05)
+| read_class06 | [class06](./class06)
