@@ -1,4 +1,4 @@
-# Reading: Class 16 ((What is Serverless?))
+# Reading: Class 16 ((Serverless))
 
 > [Back to  main](./README.md)
 
