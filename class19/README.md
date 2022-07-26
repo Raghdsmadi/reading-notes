@@ -1,4 +1,4 @@
-# Reading: Class 18 (Cryptography)
+# Reading: Class 19 (Django)
 
 > [Back to  main](./README.md)
 ---------------------------
