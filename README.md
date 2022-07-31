@@ -43,4 +43,5 @@
 | read_class26 | [class19](./class19)
 | read_class27 | [class27](./class27)
 | read_class28 | [class28](./class28)
+| read_class29 | [class29](./class29)
 
